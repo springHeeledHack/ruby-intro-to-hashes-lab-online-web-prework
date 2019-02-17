@@ -8,7 +8,10 @@ end
 
 def monopoly
 	monopoly = {
-	  railroads: {}
+	  railroads: { pieces: 4, 
+	  names: {},
+	  rent_in_dollars: {}
+	  }
 	}
 
 end
